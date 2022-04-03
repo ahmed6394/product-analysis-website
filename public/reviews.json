@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Jeff Stearns",
+    "id": 1,
+    "rating": 4.9,
+    "comment": "First off, I want to dispell any bad reviews you may read about this TV. The people who wrote them simply don't know how to do an 'Expert Setup' on their TV. They obviously think it's 'Plug n'Play' and that is NOT the case with any TV, not just this one."
+  },
+  {
+    "name": "Michael",
+    "id": 2,
+    "rating": 4.5,
+    "comment": "Everything about this TV is great, minus one thing (we'll get back to that). The picture quality is stunning, HDR is great, and the picture options are pretty vast and allows for a good amount of fine tuning."
+  },
+  {
+    "name": "Michael J. Flynn",
+    "id": 3,
+    "rating": 1.0,
+    "comment": "Total brick right out of the box. There was no visible damage or signs of mishandling. The unit was completely dead ... no power getting to it at all, no standby light, nothing. I called the Samsung help line, where I was advised to box it up and send it back to Amazon. Refund still pending. Total waste of time and effort."
+  },
+  {
+    "name": "Marny Shuster",
+    "id": 4,
+    "rating": 4.6,
+    "comment": "The color and picture quality are excellent, and so is the sound quality. I had a tech person install the TV as I am not a tech person. The remote is not user friendly if one does not understand the meaning of each icon, and I am still trying to sort that part out."
+  },
+  {
+    "name": "James Zachary",
+    "id": 5,
+    "rating": 4.7,
+    "comment": "The box and set were in perfect shape. I was initially concerned because it had less HDMI ports than my previous set from 2014 but I quickly discerned that with all it's smart features, it doesn't need Chromecast (because it has an intricated series of screen mirroring features for computers and phones)."
+  },
+  {
+    "name": "Desert Bill",
+    "id": 6,
+    "rating": 3.2,
+    "comment": "Well, an upgrade for me to QLED. I use this as a PC monitor (with the brightness turned way down), for my 4K Blu ray player and use a digital antenna. No cable for me. The picture is good. I notice just the SLIGHTEST bit of pixelization when I'm up close. This MAY fade as the screen breaks in. (Samsung claims no break in period). Colors are really good with HDR, 4K Discs look FANTASTIC."
+  }
+]

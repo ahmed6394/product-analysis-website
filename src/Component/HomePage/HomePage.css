@@ -1,0 +1,11 @@
+.home-container {
+  margin: 30px;
+
+  display: flex;
+}
+.info-container {
+  margin-left: 30px;
+}
+.info-container p {
+  padding: 30px;
+}
