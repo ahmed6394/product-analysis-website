@@ -32,7 +32,7 @@ const HomePage = () => {
         </div>
       </div>
       <div className="short-review-container">
-        <h4>Reviews...</h4>
+        <h2>Customer Reviews</h2>
         {reviews.slice(0, 3).map((review) => (
           <Review key={review.id} review={review}></Review>
         ))}

@@ -1,5 +1,5 @@
 import React from "react";
-
+import "./Review.css";
 const Review = (props) => {
   const { name, rating, comment } = props.review;
   return (
