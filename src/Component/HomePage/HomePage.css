@@ -1,6 +1,5 @@
 .home-container {
-  margin: 30px;
-
+  margin: 0px 30px;
   display: flex;
 }
 .info-container {
@@ -8,4 +7,14 @@
 }
 .info-container p {
   padding: 30px;
+}
+.expand-btn {
+  margin: auto;
+  padding: 10px 20px;
+  color: white;
+  background-color: #000032;
+  border-radius: 8px;
+}
+.expand-btn:hover {
+  color: orangered;
 }

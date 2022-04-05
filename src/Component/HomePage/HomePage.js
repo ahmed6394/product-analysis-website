@@ -1,4 +1,5 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import useReviews from "../../Hooks/useRevies";
 import TV from "../../img/SAMSUNG.jpg";
 import Review from "../Review/Review";
@@ -6,9 +7,16 @@ import Review from "../Review/Review";
 import "./HomePage.css";
 
 const HomePage = () => {
+  const navigate = useNavigate();
+
+  const showReviews = () => {
+    const path = "/review";
+    navigate(path);
+  };
+
   const [reviews, setReviews] = useReviews();
   return (
-    <div>
+    <div className="container">
       <div className="home-container">
         <div className="photo-container">
           <img className="photo" src={TV} alt="" height={350} />
@@ -37,6 +45,9 @@ const HomePage = () => {
           <Review key={review.id} review={review}></Review>
         ))}
       </div>
+      <button className="expand-btn" onClick={showReviews}>
+        See All
+      </button>
     </div>
   );
 };
